@@ -1,3 +1,5 @@
+package employe;
+
 public interface IGestion <T>{
     public void ajouterEmploye(T t);
     public boolean rechercherEmploye(String nom);

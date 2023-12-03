@@ -1,3 +1,8 @@
+package employe;
+
+import employe.Employe;
+import employe.IGestion;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
